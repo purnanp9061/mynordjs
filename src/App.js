@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          hai
+          Panipata Lida PUKA , poye aidayina pani chisuko
         </p>
         <a
           className="App-link"
